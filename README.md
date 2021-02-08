@@ -6,5 +6,5 @@ Using greensock(GSAP): https://greensock.com/docs/v3/Installation?checked=core,s
 
 To not copy and paste this code as plagiarism is prohibited!
 
-Live Demo: 
+Live Demo: https://worksbyscott.github.io/Visual_Coursework_Example/
 
